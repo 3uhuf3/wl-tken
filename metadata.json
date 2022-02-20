@@ -4,7 +4,7 @@
 	"symbol" : "BRCRS",
 	"external_url" : "https://www.brickers.io",
 	"seller_fee_basis_points" : 7000,
-	"image" : "https://storage.googleapis.com/fractal-launchpad-public-assets/cinder-mainnet-whitelist/cinder_token_blue.png",
+	"image" : "https://raw.githubusercontent.com/3uhuf3/wl-tken/main/logo.png",
 	"properties" : {
 		"category" : "image",
 		"creators" : [
@@ -16,7 +16,7 @@
 		"files" : [
 			{
 				"type" : "image/png",
-				"uri" : "https://storage.googleapis.com/fractal-launchpad-public-assets/cinder-mainnet-whitelist/cinder_token_blue.png"
+				"uri" : "https://raw.githubusercontent.com/3uhuf3/wl-tken/main/logo.png"
 			}
 		]
 	}
