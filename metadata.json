@@ -1,0 +1,23 @@
+{
+	"name" : "Brickers WL Token",
+	"description" : "Congrats!",
+	"symbol" : "BRCRS",
+	"external_url" : "https://www.brickers.io",
+	"seller_fee_basis_points" : 7000,
+	"image" : "https://storage.googleapis.com/fractal-launchpad-public-assets/cinder-mainnet-whitelist/cinder_token_blue.png",
+	"properties" : {
+		"category" : "image",
+		"creators" : [
+			{
+				"address" : "7RiXSdQTiiBMLrDhZvL6dDsjYC8Nptn1573X2NqWPgo2",
+				"share" : 100
+			}
+		],
+		"files" : [
+			{
+				"type" : "image/png",
+				"uri" : "https://storage.googleapis.com/fractal-launchpad-public-assets/cinder-mainnet-whitelist/cinder_token_blue.png"
+			}
+		]
+	}
+}
